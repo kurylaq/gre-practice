@@ -14,8 +14,7 @@ catalyst (noun) a substance that accelerates the rate of a chemical reaction wit
 caustic (adj.) burning or stinging; causing corrosion 
 chary (adj.) wary; cautious; sparing
 cogent (adj.) appealing forcibly to the mind or reason; convincing
-complaisance (noun) the willingness to comply with the wishes of
-others (adj. form: complaisant)
+complaisance (noun) the willingness to comply with the wishes of others (adj. form: complaisant)
 contentious (adj.) argumentative; quarrelsome; causing controversy or disagreement
 contrite (adj.) regretful; penitent; seeking forgiveness (noun form: contrition)
 culpable (adj.) deserving blame (noun form: culpability)
@@ -41,8 +40,7 @@ furtive (adj.) marked by stealth; covert; surreptitious
 gregarious (adj.) sociable; outgoing; enjoying the company of other people
 harangue (verb)/(noun) to deliver a forceful or angry speech; ranting speech or writing.
 heretical (adj.) violating accepted dogma or convention (noun form: heresy)
-hyperbole (noun) an exaggerated statement, often used as a figure of
-speech (adj. form: hyperbolic)
+hyperbole (noun) an exaggerated statement, often used as a figure of speech (adj. form: hyperbolic)
 impecunious (adj.) lacking funds; without money
 incipient (adj.) beginning to come into being or to become apparent
 inert (adj.) unmoving; lethargic; sluggish
@@ -56,8 +54,7 @@ oscillation (noun) the act or state of swinging back and forth with a steady, un
 penurious (adj.) penny-pinching; excessively thrifty; ungenerous
 pernicious (adj.) extremely harmful in a way that is not easily seen or noticed
 peruse (verb) to examine with great care (noun form: perusal)
-pious (adj.) extremely reverent or devout; showing strong religious
-devotion (noun form: piety)
+pious (adj.) extremely reverent or devout; showing strong religious devotion (noun form: piety)
 precursor (noun) one that precedes and indicates or announces another
 preen (verb) to dress up; to primp; to groom oneself with elaborate care
 prodigious (adj.) abundant in size, force, or extent; extraordinary
