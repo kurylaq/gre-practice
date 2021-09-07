@@ -6,10 +6,15 @@ def get_random(file_num):
       lines = list(groupfile.readlines())
       random.shuffle(lines)
       for line in lines:
+         line_arr = line.split(" ")
+         word = ' '.join(line_arr[:2])
+         description = ' '.join(line_arr[2:])
          if (sys.version.startswith("3")):
-            input(line)
+            input(word)
+            input(description)
          else:
-            raw_input(line)
+            raw_input(word)
+            raw_input(description)
          
 
 def main(argv):
